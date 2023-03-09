@@ -1,6 +1,7 @@
 [![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e8el9hl5v79yo3dsy2przgdctszo179c1mwvzbnh&rid=giphy.gif&ct=g)](https://Yogesh007587.io)
 <h1 align="center">Hi 👋, I'm Yogesh Tripathi</h1>
 <h3 align="center">I'm an student who is learning and seeking for an answer.</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh007587&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh007587" /> </p>
 
