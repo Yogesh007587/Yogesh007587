@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://Yogesh007587.io)
 <h1 align="center">Hi 👋, I'm Yogesh Tripathi</h1>
-<h3 align="center">I'm an student who is learning and seeking for an answer.</h3>
+<h3 align="center">I'm a student who is learning and seeking for an answer.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh007587&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh007587" /> </p>
