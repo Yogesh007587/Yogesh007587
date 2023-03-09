@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e8el9hl5v79yo3dsy2przgdctszo179c1mwvzbnh&rid=giphy.gif&ct=g)](https://Yogesh007587.io)
+[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://Yogesh007587.io)
 <h1 align="center">Hi 👋, I'm Yogesh Tripathi</h1>
 <h3 align="center">I'm an student who is learning and seeking for an answer.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
